@@ -1,2 +1,2 @@
 # Frida_instrumented
-Edited Scripted for Quick malware Analysis
+Edited Scripts for Quick malware Analysis
